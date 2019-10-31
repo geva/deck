@@ -97,6 +97,8 @@
     "source-map": "^0.4.4",
     "source-sans-pro": "^2.0.10",
     "spel2js": "^0.2.6",
+        "tinymce": "4.1.0",
+
     "ui-select": "^0.19.6"
   },
   "devDependencies": {
