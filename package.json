@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.4.1",
-    "@spinnaker/kayenta": "0.0.87",
+    "@spinnaker/kayenta": "0.0.94",
     "@spinnaker/styleguide": "^1.0.14",
     "@types/date-fns": "^2.6.0",
     "@types/memoize-one": "^3.1.1",
@@ -93,7 +93,7 @@
     "reflect-metadata": "^0.1.9",
     "rxjs": "^5.4.2",
     "select2-bootstrap-css": "git://github.com/t0m/select2-bootstrap-css.git#v1.3.1",
-    "semiotic": "^1.19.7",
+    "semiotic": "^2.0.2",
     "source-map": "^0.4.4",
     "source-sans-pro": "^2.0.10",
     "spel2js": "^0.2.6",
