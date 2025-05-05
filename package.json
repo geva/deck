@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.4.1",
-    "@spinnaker/kayenta": "0.0.87",
+    "@spinnaker/kayenta": "1.0.2",
     "@spinnaker/styleguide": "^1.0.14",
     "@types/date-fns": "^2.6.0",
     "@types/memoize-one": "^3.1.1",
@@ -70,7 +70,7 @@
     "luxon": "^1.11.3",
     "memoize-one": "^4.0.2",
     "n3-charts": "^2.0.18",
-    "ngimport": "^0.6.0",
+    "ngimport": "^0.8.0",
     "pretty-ms": "^5.0.0",
     "prop-types": "15.6.1",
     "react": "~16.8.0",
